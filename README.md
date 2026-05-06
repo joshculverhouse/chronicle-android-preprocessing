@@ -183,6 +183,6 @@ This output is designed to be used with the companion cleaning repository.
 
 For cleaning and quality control of the preprocessed data, see:
 
-👉
+> https://github.com/joshculverhouse/chronicle-preprocessed-cleaning
 
 ---
